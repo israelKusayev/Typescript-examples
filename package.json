@@ -1,0 +1,15 @@
+{
+  "name": "typescript-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "ts-init": "tsc --init"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
